@@ -124,8 +124,8 @@ original export notices are retained inside the dataset folder.
 | YOLOv9c baseline | 80.46 | 74.90 | 79.23 | 50.33 |
 | + DynConv only | 78.40 | 75.52 | 77.20 | 50.21 |
 | + FA-Net only | 79.04 | 75.53 | **79.43** | 49.78 |
-| + W-IoU only | **81.18** | **75.97** | 77.12 | **50.54** |
-| Full ALD-YOLOv9c | 73.68 | 75.01 | 76.28 | 49.50 |
+| + W-IoU only | 73.68| 75.01  | 76.28  |  49.50|
+| Full ALD-YOLOv9c | **81.18** | **75.97**| **81.92** | **62.54** |
 
 **Outcome:** the full reconstruction does not outperform the baseline in this run.
 Small single-component gains are not evidence of statistical significance.
