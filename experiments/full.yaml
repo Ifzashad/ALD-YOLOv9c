@@ -1,0 +1,13 @@
+name: full
+model: models/ablations/full.yaml
+hyp: data/hyps/ablations/full.yaml
+data: datasets/AD2025/data.yaml
+weights: weights/yolov9-c.pt
+epochs: 200
+batch_size: 8
+img: 640
+optimizer: SGD
+patience: 50
+close_mosaic: 15
+workers: 4
+seed: 0

@@ -1,0 +1,4 @@
+weights/*.pt filter=lfs diff=lfs merge=lfs -text
+datasets/AD2025/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+datasets/AD2025/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+datasets/AD2025/**/*.png filter=lfs diff=lfs merge=lfs -text

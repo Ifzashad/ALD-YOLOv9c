@@ -1,0 +1,1 @@
+AD2025 is the project-local name for the unchanged version-1 export identified in the original README files. Image/label contents and splits are preserved. Only the portable data.yaml and directory name are packaging changes.
